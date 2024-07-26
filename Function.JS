@@ -46,7 +46,7 @@ $(function () {
       albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
       trackUrl = [
         "https://www.youtube.com/watch?v=xoWxv2yZXLQ&list=PLWL923jZIGrtOTDYPnk7wYo931GIS2-CD",
-        "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3",
+        "https://github.com/HShell4269/MyMinimalistMP3Player/blob/main/Music/School/Debussy%20-%20Arabesque%20No.%201%20%5BcVYH-7QGE-A%5D.m4a",
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
         "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
