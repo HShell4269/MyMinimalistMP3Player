@@ -50,7 +50,7 @@ $(function () {
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/2.mp3",
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/3.mp3",
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/4.mp3",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/5.mp3",
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/5.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
