@@ -45,11 +45,12 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/1.mp3",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/2.mp3",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/3.mp3",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/4.mp3",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/5.mp3"
+      "Music/School/1.mp3",
+      "Music/School/2.mp3",
+      "Music/School/3.mp3",
+      "Music/School/4.mp3",
+      "Music/School/5.mp3"
+
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
