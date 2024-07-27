@@ -46,10 +46,11 @@ $(function () {
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
       "https://www.youtube.com/watch?v=xoWxv2yZXLQ&list=PLWL923jZIGrtOTDYPnk7wYo931GIS2-CD",
-      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/Debussy - Arabesque No. 1 [cVYH-7QGE-A].m4a",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/1.mp3",
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/2.mp3",
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/3.mp3",
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/4.mp3",
+      "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/5.mp3",
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
