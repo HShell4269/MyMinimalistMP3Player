@@ -37,7 +37,7 @@ $(function () {
       "Proxy (Original Mix)"
     ],
     trackNames = [
-      "Skylike - Dawn",
+      "Debussy - Claire de Lune",
       "Alex Skrindo - Me & You",
       "Kaaze - Electro Boy",
       "Jordan Schor - Home",
@@ -45,11 +45,11 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "Music/School/1.mp3",
-      "Music/School/2.mp3",
-      "Music/School/3.mp3",
-      "Music/School/4.mp3",
-      "Music/School/5.mp3"
+      "https://raw.githubusercontent.com/HShell4269/MyMinimalistMP3Player/Music/School/1.mp3",
+      "https://raw.githubusercontent.com/HShell4269/MyMinimalistMP3PlayerMusic/School/2.mp3",
+      "https://raw.githubusercontent.com/HShell4269/MyMinimalistMP3PlayerMusic/School/3.mp3",
+      "https://raw.githubusercontent.com/HShell4269/MyMinimalistMP3PlayerMusic/School/4.mp3",
+      "https://raw.githubusercontent.com/HShell4269/MyMinimalistMP3PlayerMusic/School/5.mp3"
 
     ],
     playPreviousTrackButton = $("#play-previous"),
