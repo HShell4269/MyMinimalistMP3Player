@@ -45,7 +45,6 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://www.youtube.com/watch?v=xoWxv2yZXLQ&list=PLWL923jZIGrtOTDYPnk7wYo931GIS2-CD",
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/1.mp3",
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/2.mp3",
       "https://hshell4269.github.io/MyMinimalistMP3Player/Music/School/3.mp3",
