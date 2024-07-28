@@ -176,6 +176,7 @@
             isPlaying = true;
             playPauseButton.innerHTML = '<i class="fas fa-pause"></i>';
             document.getElementById('player-track').classList.add('active');
+            document.getElementById('album-art').classList.add('active');
             document.getElementById('current-time').classList.add('active');
             document.getElementById('track-length').classList.add('active');
         }
@@ -185,6 +186,7 @@
             isPlaying = false;
             playPauseButton.innerHTML = '<i class="fas fa-play"></i>';
             document.getElementById('player-track').classList.remove('active');
+            document.getElementById('album-art').classList.remove('active');
             document.getElementById('current-time').classList.remove('active');
             document.getElementById('track-length').classList.remove('active');
         }
